@@ -1,0 +1,38 @@
+#Addmissons {
+    text-align: center;
+}
+
+.line {
+    height: 7px;
+    width: 150px;
+    margin: 6px auto;
+    background-color: coral;
+}
+
+#Website {
+    text-align: center;
+}
+
+#Map {
+    text-align: center;
+}
+
+#Images {
+    text-align: center;
+}
+
+.dpya {
+    width: 50%;
+    height: 250px;
+    border-radius: 20;
+    text-align: center;
+}
+
+#History {
+    font-size: 35px;
+    text-align: center;
+}
+
+#Facebook {
+    text-align: center;
+}
